@@ -10,7 +10,7 @@
   <img src="GIF_INTRO.gif" alt="Grace"/>
 </p>
 <p align="center">
-  <img src="GIF_DESC.gif" alt="Grace"/>
+  <img src="GIF_DESCR.gif" alt="Grace"/>
 </p>
 
 
