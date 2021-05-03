@@ -7,10 +7,10 @@
 [![Medium Badge](https://img.shields.io/badge/My-Medium-Green)](https://medium.com/@ochieng.grace)
 
 <p align="center">
-  <img src="GIF1.gif" alt="Grace"/>
+  <img src="GIF_INTRO.gif" alt="Grace"/>
 </p>
 <p align="center">
-  <img src="GIF2.gif" alt="Grace"/>
+  <img src="GIF_DESC.gif" alt="Grace"/>
 </p>
 
 
