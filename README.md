@@ -6,8 +6,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/grace-amondi-20a979145/)
 [![Medium Badge](https://img.shields.io/badge/My-Medium-Green)](https://medium.com/@ochieng.grace)
 
-### Hi there 👋
-
 <p align="center">
   <img src="GIF1.gif" alt="Grace"/>
 </p>
