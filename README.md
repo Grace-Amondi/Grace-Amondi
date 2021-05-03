@@ -9,10 +9,10 @@
 <p align="center">
   <img src="GIF1.gif" alt="Grace"/>
 </p>
-
 <p align="center">
   <img src="GIF2.gif" alt="Grace"/>
 </p>
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=grace-amondi&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-amondi&hide=go)
