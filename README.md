@@ -8,5 +8,7 @@
 
 ### Hi there 👋
 
+![GIF](https://github.com/Grace-Amondi/Grace-Amondi/blob/main/GIF1.gif)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=grace-amondi&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-amondi&hide=go)
